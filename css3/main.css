@@ -1,0 +1,15 @@
+#greycol{
+    color: grey;
+}
+
+div>p:first-child{
+    color: red;
+}
+
+.yellow{
+    color: yellow;
+}
+
+div>p:nth-child(7){
+    color: green;
+}
